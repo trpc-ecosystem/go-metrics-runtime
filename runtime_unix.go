@@ -54,7 +54,7 @@ func getFDs(ctx context.Context) {
 
 // getPidCount get metrics of Pid
 func getPidCount(ctx context.Context) {
-	shell := fmt.Sprintf("ps -eLF|wc -l")
+	shell := "ps -eLF|wc -l"
 	out, err := exec.CommandContext(ctx, "bash", "-c", shell).Output()
 	if err != nil {
 		return
