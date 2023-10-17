@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/agiledragon/gomonkey v2.0.2+incompatible
-	trpc.group/trpc-go/trpc-go v0.0.0-20230824091938-4699a10e2f35
+	trpc.group/trpc-go/trpc-go v1.0.0
 )
 
 require (
