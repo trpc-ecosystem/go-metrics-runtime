@@ -1,3 +1,5 @@
+[English](README.md) | 中文
+
 # tRPC-Go runtime 监控
 每分钟定时上报 runtime 关键监控信息
 
