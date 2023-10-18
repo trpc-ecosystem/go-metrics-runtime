@@ -1,6 +1,14 @@
 [English](README.md) | 中文
 
 # tRPC-Go runtime 监控
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/trpc-ecosystem/go-metrics-runtime.svg)](https://pkg.go.dev/github.com/trpc-ecosystem/go-metrics-runtime)
+[![Go Report Card](https://goreportcard.com/badge/trpc.group/trpc-go/trpc-naming-polarismesh)](https://goreportcard.com/report/trpc.group/trpc-go/trpc-naming-polarismesh)
+[![LICENSE](https://img.shields.io/badge/license-Apache--2.0-green.svg)](https://github.com/trpc-ecosystem/go-metrics-runtime/blob/main/LICENSE)
+[![Releases](https://img.shields.io/github/release/trpc-ecosystem/go-metrics-runtime.svg?style=flat-square)](https://github.com/trpc-ecosystem/go-metrics-runtime/releases)
+[![Tests](https://github.com/trpc-ecosystem/go-metrics-runtime/actions/workflows/prc.yml/badge.svg)](https://github.com/trpc-ecosystem/go-metrics-runtime/actions/workflows/prc.yml)
+[![Coverage](https://codecov.io/gh/trpc-ecosystem/go-metrics-runtime/branch/main/graph/badge.svg)](https://app.codecov.io/gh/trpc-ecosystem/go-metrics-runtime/tree/main)
+
 每分钟定时上报 runtime 关键监控信息
 
 ## 如何使用

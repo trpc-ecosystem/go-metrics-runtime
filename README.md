@@ -9,7 +9,6 @@ English | [中文](README.zh_CN.md)
 [![Tests](https://github.com/trpc-ecosystem/go-metrics-runtime/actions/workflows/prc.yml/badge.svg)](https://github.com/trpc-ecosystem/go-metrics-runtime/actions/workflows/prc.yml)
 [![Coverage](https://codecov.io/gh/trpc-ecosystem/go-metrics-runtime/branch/main/graph/badge.svg)](https://app.codecov.io/gh/trpc-ecosystem/go-metrics-runtime/tree/main)
 
-
 Reporting runtime metrics every minutes
 
 
