@@ -57,3 +57,7 @@ Note that these may not completely solve runtime-related issues. You can also us
 | DiskFree              | Disk available in machine/root directory (Unix only, in GB)            | None |
 | DiskUsed              | Disk usage of machine/root directory (Unix only, in GB)                | None |
 | DiskUsedFraction      | Disk usage fraction of machine/root directory (Unix only)              | None |
+
+## Copyright
+
+The copyright notice pertaining to the Tencent code in this repo was previously in the name of “THL A29 Limited.”  That entity has now been de-registered.  You should treat all previously distributed copies of the code as if the copyright notice was in the name of “Tencent.”
